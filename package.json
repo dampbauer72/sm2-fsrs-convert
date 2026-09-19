@@ -1,0 +1,12 @@
+{
+  "name": "sm2-fsrs-convert",
+  "version": "0.1.0",
+  "description": "Pure TypeScript converter between SM-2 and FSRS spaced repetition card states",
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  }
+}
