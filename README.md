@@ -61,6 +61,14 @@ own `tsc` (see `tsconfig.json`):
 tsc
 ```
 
+## Testing
+
+Tests use Node's built-in test runner, so there's nothing to install:
+
+```sh
+npm test
+```
+
 ## Status
 
 Early skeleton. The ease-factor/difficulty mapping is a first-pass linear
